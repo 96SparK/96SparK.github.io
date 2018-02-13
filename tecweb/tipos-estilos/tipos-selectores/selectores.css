@@ -23,3 +23,27 @@ p {
 a{
     text-decoration: none;
 }
+
+#ejemplo li:nth-of-type(even){
+    background-color: tan;
+}
+
+p::first-letter{
+    color: blue;
+    font-size: 30px;
+}
+
+li {
+    background-color: skyblue;
+}
+
+li {
+    background-color: sandybrown;
+}
+
+.primero {
+    background-color: powderblue;
+}
+#especial2 {
+    background-color: seagreen;
+}
