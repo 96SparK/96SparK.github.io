@@ -17,7 +17,17 @@
             <li>Stands for <b>HyperText Markup Language</b></li>
             <li>Lots of tags</li>
                 <ul>
-                    <li>Boilerplate <ol><li>DOCTYPE</li><li>HTML</li><li>Head <ol><li>Title</li></ol></li><li>Body</li></ol>
+                    <li>Boilerplate 
+                        <ol>
+                            <li>DOCTYPE</li>
+                            <li>HTML</li>
+                            <li>Head 
+                                <ol>
+                                    <li>Title</li>
+                                </ol>
+                            </li>
+                            <li>Body</li>
+                        </ol>
                     </li>
                     <li>Headings</li>
                     <li>Paragraph</li>
